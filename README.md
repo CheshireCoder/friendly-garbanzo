@@ -1,2 +1,3 @@
 # friendly-garbanzo
-The word "
+Yay, Chickpea!
+I Believe it likes warm hug.
